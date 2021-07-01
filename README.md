@@ -1,6 +1,7 @@
 # MockProject
-Name Project: Quản lý nhân khẩu Đà Nẵng
-Member: - Nguyễn Minh Vũ
+# Name Project: Quản lý nhân khẩu Đà Nẵng
+Member: 
+- Nguyễn Minh Vũ
 - Vương Nguyễn Minh Hoàng
 - Nguyễn Văn Đức
 - Lê Văn Trợ
